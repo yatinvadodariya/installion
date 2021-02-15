@@ -1,0 +1,646 @@
+/*
+
+Theme Name: Installion
+
+Author: Installion
+
+Author URI: 
+
+Description: Extreme Response International
+
+Version: 1.1
+
+Text Domain: Installion
+
+*/
+
+
+
+
+
+
+
+.blog-sidebar {
+
+    float: left;
+
+    width: 100%;
+
+}
+
+.blog-sidebar .widget {
+
+    float: left;
+
+    width: 100%;
+
+}
+
+
+
+/* =WordPress Core
+
+
+
+-------------------------------------------------------------- */
+
+
+
+.alignnone {
+
+
+
+    margin: 5px 20px 20px 0;
+
+
+
+}
+
+
+
+
+
+
+
+.aligncenter,
+
+
+
+div.aligncenter {
+
+
+
+    display: block;
+
+
+
+    margin: 5px auto 5px auto;
+
+
+
+}
+
+
+
+
+
+
+
+.alignright {
+
+
+
+    float: right;
+
+
+
+    margin: 5px 0 20px 20px;
+
+
+
+}
+
+
+
+
+
+
+
+.alignleft {
+
+
+
+    float: left;
+
+
+
+    margin: 5px 20px 20px 0;
+
+
+
+}
+
+
+
+
+
+
+
+a img.alignright {
+
+
+
+    float: right;
+
+
+
+    margin: 5px 0 20px 20px;
+
+
+
+}
+
+
+
+
+
+
+
+a img.alignnone {
+
+
+
+    margin: 5px 20px 20px 0;
+
+
+
+}
+
+
+
+
+
+
+
+a img.alignleft {
+
+
+
+    float: left;
+
+
+
+    margin: 5px 20px 20px 0;
+
+
+
+}
+
+
+
+
+
+
+
+a img.aligncenter {
+
+
+
+    display: block;
+
+
+
+    margin-left: auto;
+
+
+
+    margin-right: auto;
+
+
+
+}
+
+
+
+
+
+
+
+.wp-caption {
+
+
+
+    background: #fff;
+
+
+
+    border: 1px solid #f0f0f0;
+
+
+
+    max-width: 96%;
+    /* Image does not overflow the content area */
+
+
+
+    padding: 5px 3px 10px;
+
+
+
+    text-align: center;
+
+
+
+}
+
+
+
+
+
+
+
+.wp-caption.alignnone {
+
+
+
+    margin: 5px 20px 20px 0;
+
+
+
+}
+
+
+
+
+
+
+
+.wp-caption.alignleft {
+
+
+
+    margin: 5px 20px 20px 0;
+
+
+
+}
+
+
+
+
+
+
+
+.wp-caption.alignright {
+
+
+
+    margin: 5px 0 20px 20px;
+
+
+
+}
+
+
+
+
+
+
+
+.wp-caption img {
+
+
+
+    border: 0 none;
+
+
+
+    height: auto;
+
+
+
+    margin: 0;
+
+
+
+    max-width: 98.5%;
+
+
+
+    padding: 0;
+
+
+
+    width: auto;
+
+
+
+}
+
+
+
+
+
+
+
+.wp-caption p.wp-caption-text {
+
+
+
+    font-size: 11px;
+
+
+
+    line-height: 17px;
+
+
+
+    margin: 0;
+
+
+
+    padding: 0 4px 5px;
+
+
+
+}
+
+
+
+
+
+
+
+/* Text meant only for screen readers. */
+
+
+
+.screen-reader-text {
+
+
+
+    border: 0;
+
+
+
+    clip: rect(1px, 1px, 1px, 1px);
+
+
+
+    clip-path: inset(50%);
+
+
+
+    height: 1px;
+
+
+
+    margin: -1px;
+
+
+
+    overflow: hidden;
+
+
+
+    padding: 0;
+
+
+
+    position: absolute !important;
+
+
+
+    width: 1px;
+
+
+
+    word-wrap: normal !important;
+    /* Many screen reader and browser combinations announce broken words as they would appear visually. */
+
+
+
+}
+
+
+
+
+
+
+
+.screen-reader-text:focus {
+
+
+
+    background-color: #eee;
+
+
+
+    clip: auto !important;
+
+
+
+    clip-path: none;
+
+
+
+    color: #444;
+
+
+
+    display: block;
+
+
+
+    font-size: 1em;
+
+
+
+    height: auto;
+
+
+
+    left: 5px;
+
+
+
+    line-height: normal;
+
+
+
+    padding: 15px 23px 14px;
+
+
+
+    text-decoration: none;
+
+
+
+    top: 5px;
+
+
+
+    width: auto;
+
+
+
+    z-index: 100000;
+
+
+
+    /* Above WP toolbar. */
+
+
+
+}
+
+header .navbar-light .navbar-nav.mx-auto li .dropdown-menu li {
+    margin: 0px;
+}
+
+
+
+header .navbar-light .navbar-nav .current-menu-parent>.nav-link,
+header .navbar-light .navbar-nav .current_page_item>.nav-link,
+header .navbar-light .navbar-nav .nav-link.show,
+header .navbar-light .navbar-nav .current_page_item .nav-link,
+header .navbar-light .navbar-nav .current-menu-parent .nav-link {
+    color: #2ed3ae;
+    background: none;
+    border-color: #2ed3ae;
+}
+
+header .navbar-light .navbar-nav .current_page_item>a {
+    color: #2ed3ae;
+    background: none;
+    border-color: #2ed3ae;
+}
+
+.previous-post {
+    padding-right: 30px;
+    font-size: 16px;
+}
+
+.next-post {
+    text-align: right;
+    display: block;
+    float: right;
+    font-size: 16px;
+}
+
+.blog-list-box .details h5 {
+    font-size: 25px;
+}
+
+.news-more-link {
+    margin: 0;
+    padding: 20px 41px;
+    display: inline-block;
+    font-size: 19px;
+    color: #fff;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.40px;
+    background: #2ed3ae;
+    box-shadow: 0 9px 28px rgba(46, 211, 174, 0.13);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.news-more-link:hover {
+    background: #2780c2;
+    color: #fff;
+    box-shadow: 0 9px 28px rgba(0, 0, 0, 0.13);
+    border-color: #2780c2;
+}
+
+#cc-window.cc-window .cmplz-categories-wrap .cc-check svg,
+#cmlz-manage-consent-container.cmplz-manage-consent-container .cc-check svg {
+    position: relative;
+    z-index: 1;
+    fill: none;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-width: 3.5;
+    transition: all .2s ease;
+    stroke: #000;
+}
+
+.news .news-title a {
+    margin: 0 0 30px 0;
+    padding: 0;
+    /* font-size: 23px; */
+    color: #004a6d;
+    font-weight: 500;
+    letter-spacing: 0.2px;
+}
+
+.grid-date-post,
+.grid-date-post a {
+    font-size: 14px;
+    margin-bottom: 5px;
+    color: #004a6d;
+}
+
+.news-short-content {
+    color: #004a6d;
+    font-size: 16px;
+    line-height: 28px;
+}
+
+.team-secs .career_sec p {
+    margin-bottom: 30px;
+}
+
+.team-secs .career_sec .detail {
+    padding: 0 20px 0 0;
+}
+
+.ques_form .field2 {
+    width: 49%;
+    height: 60px;
+    float: left;
+    padding: 0 25px;
+    margin: 0 0 20px 0;
+    font-size: 15px;
+    color: #757575;
+    letter-spacing: 0.5px;
+    border: 1px solid #d8d8d8;
+    background: #fff;
+    border-radius: 7px;
+    margin-right: 2%;
+}
+
+.ques_form .field3 {
+    width: 49%;
+    height: 60px;
+    float: left;
+    padding: 0 25px;
+    margin: 0 0 20px 0;
+    font-size: 15px;
+    color: #757575;
+    letter-spacing: 0.5px;
+    border: 1px solid #d8d8d8;
+    background: #fff;
+    border-radius: 7px;
+}
+
+.das_sec .vc_col-sm-4 .vc_column-inner,
+.das_sec .vc_col-sm-6 .vc_column-inner {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.add_info,
+.add_info p {
+    color: #ffffff;
+}
+
+@media (max-width: 767px) {
+
+    .common_sec .field2,
+    .common_sec .field3 {
+        width: 100%;
+    }
+
+    .common_sec .field2,
+    .common_sec .field3 {
+        width: 100%;
+    }
+
+    .next-post {
+        text-align: center;
+        display: block;
+        float: none;
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .previous-post {
+        padding-right: 30px;
+        font-size: 16px;
+        width: 100%;
+        text-align: center;
+        display: block;
+    }
+}

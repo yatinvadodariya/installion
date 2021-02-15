@@ -1,0 +1,260 @@
+@media (max-width:1700px) {
+header{ padding:30px 0 20px 0;}
+.hero_sec{ padding:250px 0 210px 0;}
+.hero_sec h1{ font-size:65px; line-height:normal;}
+header .navbar-light .navbar-nav.mx-auto li{ margin:0 20px;}
+header .navbar-light .navbar-nav li.log_link{ margin-right:30px;}
+.easy_sec{ padding:100px 0;}
+.disting_sec{ padding:100px 0;}
+.installion_sec{ padding:100px 0;}
+.install_slider{ margin-bottom:40px;}
+.owl-carousel .owl-nav button.owl-prev{ left:-100px;}
+.owl-carousel .owl-nav button.owl-next{ right:-100px;}
+.opinion_sec{ padding:100px 0;}
+footer{ padding:100px 0 0 0;}
+
+.career_sec{ padding:100px 0;}
+.glad_sec .inner{ padding-top:100px; padding-bottom:100px;}
+.vacancies_sec{ padding:100px 0;}
+
+.das_sec{ padding:100px 0;}
+}
+
+@media (max-width:1599px) {
+.container{ width:90%; margin:0 auto; padding:0;}
+p{ font-size:16px; line-height:28px;}
+
+header .navbar-brand{ width:245px;}
+header .navbar-light .navbar-nav.mx-auto li{ margin:0 15px;}
+header .navbar-light .navbar-nav li.log_link{ margin-right:20px;}
+header .navbar-light .navbar-nav .nav-link{ font-size:14px; padding:13px 0;}
+header .navbar-light .navbar-nav li.reg_btn .nav-link{ padding-left: 20px;  padding-right: 20px;}
+.hero_sec{ padding:210px 0 140px 0;}
+.hero_sec h1{ font-size:55px; }
+.global_title{ font-size:40px;}
+.easy_sec .info{ font-size:20px;}
+.easy_block{ padding:0 30px;}
+.vision_sec .v_caption{ max-width:466px;}
+.vision_sec .inner{ padding:70px 90px;}
+.more_link{ font-size:16px;}
+.partner_sec ul li{ margin-right:40px;}
+.disting_block{ padding:0 50px;}
+
+.install_slider{ padding:0 50px;}
+.install_slider h3{ font-size:22px;}
+.install_slider p{ font-size:16px;}
+.owl-carousel .owl-nav button.owl-prev{ left:-80px;}
+.owl-carousel .owl-nav button.owl-next{ right:-80px;}
+.testimonial_slider{ padding:0 50px;}
+.opinin p{ font-size:18px;}
+.opinin h3{ font-size:23px;}
+.copyright{ margin-top:30px; padding:20px 0;}
+
+.inner_banner{ padding:200px 0 120px 0;}
+.inner_banner h1{ font-size:55px;}
+.career_sec p{ line-height:30px;}
+.listing_info li{ font-size:16px; background-position:top 5px left;}
+.vacancies_sec .card-header .btn-link{ font-size:20px;}
+.vacancies_sec h3{ font-size:18px;}
+}
+
+@media (max-width:1200px) {
+p{ font-size:14px; line-height:25px;}
+header{ padding:20px 0;}
+header .navbar-brand{ width:200px;}
+header .navbar-light .navbar-nav.mx-auto li{ margin:0 10px;}
+header .navbar-light .navbar-nav li.log_link{ margin-right:15px;}
+header .navbar-light .navbar-nav .nav-link{ font-size:13px; padding:11px 0;}
+header .navbar-light .navbar-nav li.reg_btn .nav-link{ padding-left: 15px;  padding-right: 15px;}
+.hero_sec{ padding:170px 0 100px 0;}
+.hero_sec h1{ font-size:46px; line-height:normal;}
+.hero_sec h4{ font-size:18px;}
+.hero_sec p{ font-size:14px;}
+.btn_links{ padding:14px 28px; font-size:14px; }
+.easy_sec{ padding:80px 0;}
+.easy_block{ padding:0;}
+.easy_block figure::before { width:100%;}
+.easy_sec .info{ font-size:18px; margin-bottom:35px;}
+.easy_block figure{ margin-bottom:30px;}
+.easy_block h3{ margin-bottom:20px; font-size:20px;}
+.easy_block{ margin-bottom:35px;}
+.vision_sec .inner{ padding:60px 40px;}
+.vision_sec .v_caption{ max-width:415px; padding:40px 25px;}
+.global_title{ font-size:35px;}
+.partner_sec ul li{ margin-right:20px;}
+.partner_sec ul li h3{ font-size:16px; white-space:nowrap;}
+.partner_sec ul li h3 i{ margin-left:10px;}
+.partner_sec ul li figure{ width:100%; max-width:120px;}
+.partner_sec{ padding:40px 0;}
+.disting_sec{ padding:80px 0;}
+.disting_sec .info{ font-size:16px; margin-bottom:30px;}
+.disting_block{ padding:0 20px;}
+.installion_sec{ padding:80px 0;}
+.install_slider .inst_cap{ padding:130px 25px 20px 25px;}
+.install_slider{ padding:0 40px;}
+.install_slider p{ font-size:15px;}
+.owl-carousel .owl-nav button.owl-prev{ width: 40px; height: 40px; margin-top:-20px; left:-50px; box-shadow:0 13px 20px rgba(0,0,0,0.1);}
+.owl-carousel .owl-nav button.owl-next{ width: 40px; height: 40px; margin-top:-20px; right:-50px; box-shadow:0 13px 20px rgba(0,0,0,0.1);}
+.owl-carousel .owl-nav button:after{ font-size:25px !important;}
+.opinion_sec{ padding:80px 0;}
+.testimonial_slider{ padding:0 40px;}
+.opinin{ padding:0 30px 40px 30px;}
+.opinin p{ font-size:16px; line-height:30px;}
+.opinin h3{ font-size:19px;}
+.opinin span{ font-size:14px;}
+.add_info{ padding:30px 20px 15px 20px; max-width:270px;}
+.add_block { margin: 0 0 15px 0; font-size: 16px; color: #ffffff; line-height: 25px;}
+.ques_form{ padding:40px 20px; max-width:360px;}
+.ques_form h3{ font-size:18px;}
+footer{ padding-top:80px;}
+
+.inner_banner { padding: 160px 0 80px 0;}
+.inner_banner h1{ font-size:46px;}
+.career_sec{ padding:80px 0;}
+.vacancies_sec{ padding:80px 0;}
+.career_sec p{ margin-bottom:30px;}
+.listing_info li{ font-size:14px; background-position:top 4px left;}
+
+.das_sec{ padding:80px 0;}
+.das{ padding:35px 30px 40px 30px;}
+.das h3{ font-size:20px; line-height:normal;}
+}
+
+/************ Main **************/
+@media (max-width: 991px) {
+header{ background:#0a182b; position:relative;}
+.navbar-light .navbar-toggler{ background:none; border:none; position:relative; right:0; top:0; height:33px; margin-left:5px;}
+.navbar-toggler:focus,.navbar-toggler:active { outline: 0;}
+.navbar-toggler span {display: block; background-color:#fff; height:3px; width:25px; margin-top:4px; margin-bottom:4px; -webkit-transform: rotate(0deg); -moz-transform: rotate(0deg);-o-transform: rotate(0deg);  transform: rotate(0deg); position: relative; left: 0;opacity: 1;}
+.navbar-toggler span:nth-child(1),.navbar-toggler span:nth-child(3) { -webkit-transition: transform .35s ease-in-out; -moz-transition: transform .35s ease-in-out; -o-transition: transform .35s ease-in-out; transition: transform .35s ease-in-out;}
+.navbar-toggler:not(.collapsed) span:nth-child(1) { position: absolute; left: 12px; top: 10px; -webkit-transform: rotate(135deg);  -moz-transform: rotate(135deg); -o-transform: rotate(135deg);transform: rotate(135deg); opacity: 0.9;}
+.navbar-toggler:not(.collapsed) span:nth-child(2) {height: 12px; visibility: hidden; background-color: transparent;}
+.navbar-toggler:not(.collapsed) span:nth-child(3) {position: absolute;left: 12px;top: 10px;-webkit-transform: rotate(-135deg);-moz-transform: rotate(-135deg); -o-transform: rotate(-135deg);transform: rotate(-135deg);opacity: 0.9;}  
+
+header .navbar-light .navbar-nav.mx-auto li{ margin:0;}
+header .navbar-light .navbar-nav li.log_link{ margin-right:0;}
+header .navbar-light .navbar-nav .nav-link{ font-size:14px; padding:10px 0; border-bottom:1px solid rgba(255,255,255,0.2);}
+header .navbar-light .navbar-nav li.reg_btn{ margin-top:10px;}
+header .navbar-light .navbar-nav li.reg_btn .nav-link{ padding:15px; border:none;}
+header .dropdown-menu{ border-radius:0; border:none; box-shadow:none; background:none; padding:5px 20px; transform:inherit; left:0;}
+header .dropdown-menu:after { display:none;}
+header .dropdown-item{ margin:0; padding:9px 0; font-size:14px; color:#fff; border-bottom:1px solid rgba(255,255,255,0.2) !important;}
+
+.hero_sec{ padding:50px 0 70px 0;}
+.hero_sec h1{ font-size:36px;}
+.hero_sec h4{ font-size:16px;}
+.btn-block .btn_links{ margin:0 8px 10px 0;}
+
+.global_title{ font-size:30px;}
+.easy_sec{ padding:70px 0 40px 0;}
+.easy_sec .info { font-size: 16px; margin-bottom: 35px;}
+.easy_block figure{ width:110px; height:110px; line-height:108px;}
+.easy_block figure > img{ width:100%; max-width:60px;}
+.easy_block h3{ font-size:20px;}
+.vision_sec .inner{ padding:40px 30px;}
+.partner_sec ul li h3 i{ margin:0 10px; display:inline-block;}
+.disting_sec{ padding:40px 0;}
+.disting_sec .info{ font-size:14px;}
+.disting_block{ padding:0;}
+
+.installion_sec{ padding:40px 0;}
+.install_slider .inst_cap{ padding:100px 15px 20px 15px;}
+.install_slider h3{ font-size:18px;} 
+.install_slider p{ font-size:14px; margin-bottom:0;} 
+.install_slider{ margin-bottom:20px;}
+.opinion_sec{ padding:40px 0 30px 0;}
+.opinin{ padding:0 20px 30px 20px;}
+.opinin i{ margin-bottom:20px;}
+.opinin p { font-size: 14px; line-height: 26px;}
+
+footer{ padding-top:40px;}
+.subscribe_info{ max-width:400px; float:none; margin:0 auto; margin-bottom:30px;}
+.subscribe_info h3{ text-align:center;}
+ul.social_info{ text-align:center;}
+
+.footer_logo{ text-align:center;}
+
+.inner_banner { padding: 80px 0;}
+.inner_banner h1{ font-size:36px;}
+.career_sec{ padding:40px 0;}
+.vacancies_sec{ padding:40px 0 10px 0;}
+.career_sec .detail{ padding-right:0;}
+.career_sec p{ line-height:25px;}
+.vacancies_sec .card-body{ padding:18px 35px 30px 35px;}
+
+.advntg_sec.easy_sec{ padding-top:40px;}
+.das_sec{ padding:40px 0;}
+.das { padding: 30px 20px;}
+.das h3{ font-size:18px;}
+.global_title.mb-5{ margin-bottom:30px !important;}
+}
+
+
+@media (max-width: 767px) {
+html { -webkit-text-size-adjust:none;}
+.container{ width:90%; margin:0 auto; padding:0;}
+.hero_sec p{ margin-bottom:25px;}
+.hero_sec{ padding:40px 0 60px 0;}
+.easy_block figure::before { display:none;}
+.vision_sec .v_caption{ float:none; margin:0 auto; box-shadow: 0 26px 30px rgba(0,0,0,0.42);}
+.partner_sec{ padding:40px 0 30px 0;}
+.partner_sec ul{ display:block; text-align:center;}
+.partner_sec ul li:first-child{ display:block; text-align:center;}
+.partner_sec ul li h3 i{ display:none;}
+.partner_sec ul li{ display:inline-block; margin-bottom:15px;}
+.arr_app .btn_links{ position:relative; width:100%; border-radius:0 0 0 0; transform: translate(0,0);}
+.easy_sec{ padding:40px 0;}
+.disting_sec{ padding:40px 0 10px 0;}
+.disting_block figure{ margin-bottom:20px;}
+.disting_block{ margin-bottom:30px;}
+
+.add_info{ position:relative; top:0; transform: translate(0,0); margin-bottom:30px; max-width:100%;}
+.ques_form{ bottom:0; max-width:100%;}
+.add_info::after { display:none;}
+.map_info iframe{ height:250px;}
+.map_cap{ position:relative; padding:30px 0;}
+.footer_logo{ margin-bottom:0;}
+ul.footer_link li{ font-size:14px; margin-bottom:8px;}
+.copyright{ padding:15px 0; font-size:14px;}
+
+.career_sec figure{ max-width:100%; box-shadow: 0 22px 29px rgba(0,0,0,0.14);}
+.career_sec .detail{ margin-bottom:30px; }
+
+.vacancies_sec .card-header .btn-link{ padding:21px 50px 20px 20px; font-size:16px;}
+.vacancies_sec .card-header .btn-link::after { right:10px;}
+.vacancies_sec .card-body{ padding:15px 20px 30px 20px;}
+.vacancies_sec h3{ font-size:15px;}
+.listing_info{ margin-bottom:35px;}
+
+.das_sec{ padding-bottom:10px;}
+.das{ margin-bottom:30px; height:auto;}
+ul.social_info{ text-align:left;}
+.subscribe_info h3{ text-align:left;}
+.footer_logo{ text-align:left;}
+}
+
+/************ iphone **************/
+@media (max-width:600px) {
+html { -webkit-text-size-adjust:none;}
+.container{ width:90%;}
+header .navbar-brand{ width:160px;}
+.login_link i{ margin-right:0;}
+.hero_sec h1{ font-size:30px; margin-bottom:26px;}
+.vision_sec .inner{ padding:30px 15px;}
+.vision_sec .v_caption{ background:rgba(255,255,255,0.9); box-shadow: 0 26px 30px rgba(0,0,0,0.42); padding:20px 10px;}
+.install_slider{ padding:0;}
+.testimonial_slider{ padding:0;}
+.testimonial_slider .owl-carousel .owl-item{ padding:40px 0 0 0;}
+.opinin{ box-shadow:none;}
+.footer_logo{ margin-top:0;}
+
+.inner_banner{ padding:40px 0;}
+.inner_banner h1{ font-size:24px;}
+ul.social_info{ text-align:center;}
+.subscribe_info h3{ text-align:center;}
+.footer_logo{ text-align:center;}
+}
+
+@media (max-width:479px) {
+.hero_sec .btn-block .btn_links{ display:block; margin-right:0;}
+}
